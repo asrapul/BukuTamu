@@ -27,10 +27,12 @@ Sebuah sistem digital untuk mendokumentasikan dan mengelola kunjungan tamu di li
 
 ## 🛠️ Teknologi yang Digunakan
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: (sesuaikan jika menggunakan PHP, Node.js, atau lainnya)
-- Database: (MySQL, Firebase, dsb jika ada)
-- Deployment: (opsional - Vercel, Netlify, atau server lokal sekolah)
+- Frontend: [Next.js](https://nextjs.org/) – Framework React untuk SSR dan SPA
+- Styling: [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- Bahasa Pemrograman (Frontend): TypeScript & JavaScript
+- Backend: [Laravel 10](https://laravel.com/) – Framework PHP modern untuk API dan manajemen data
+- Database: MySQL
+- Deployment: Belum
 
 ---
 
